@@ -1,2 +1,3 @@
 # geometria
-Proyectos de geometría hechos con código
+
+1. Necesitan entrar a https://cloud.google.com/shell
